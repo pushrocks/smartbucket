@@ -1,5 +1,5 @@
 {
-  "name": "smartbucket",
+  "name": "@pushrocks/smartbucket",
   "version": "1.0.2",
   "description": "simple cloud independent bucket storage",
   "main": "dist/index.js",
