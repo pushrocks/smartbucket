@@ -1,4 +1,7 @@
-const removeme = {};
+import * as googleCloudStorage from '@google-cloud/storage';
+import * as smartpromise from '@pushrocks/smartpromise';
+
 export {
-  removeme
+  googleCloudStorage,
+  smartpromise
 }
